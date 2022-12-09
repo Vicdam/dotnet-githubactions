@@ -1,3 +1,3 @@
 #!/bin/bash
 
-dotnet run --urls=http://localhost:9000/
+dotnet run --urls=http://localhost:9003/
