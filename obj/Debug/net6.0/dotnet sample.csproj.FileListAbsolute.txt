@@ -1,0 +1,52 @@
+/home/victor/Documents/dotnet sample/bin/Debug/net6.0/appsettings.Development.json
+/home/victor/Documents/dotnet sample/bin/Debug/net6.0/appsettings.json
+/home/victor/Documents/dotnet sample/bin/Debug/net6.0/dotnet sample.staticwebassets.runtime.json
+/home/victor/Documents/dotnet sample/bin/Debug/net6.0/dotnet sample
+/home/victor/Documents/dotnet sample/bin/Debug/net6.0/dotnet sample.deps.json
+/home/victor/Documents/dotnet sample/bin/Debug/net6.0/dotnet sample.runtimeconfig.json
+/home/victor/Documents/dotnet sample/bin/Debug/net6.0/dotnet sample.dll
+/home/victor/Documents/dotnet sample/bin/Debug/net6.0/dotnet sample.pdb
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/dotnet sample.csproj.AssemblyReference.cache
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/dotnet sample.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/dotnet sample.AssemblyInfoInputs.cache
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/dotnet sample.AssemblyInfo.cs
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/dotnet sample.csproj.CoreCompileInputs.cache
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/dotnet sample.MvcApplicationPartsAssemblyInfo.cache
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/dotnet sample.RazorAssemblyInfo.cache
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/dotnet sample.RazorAssemblyInfo.cs
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/staticwebassets.build.json
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/staticwebassets.development.json
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/scopedcss/bundle/dotnet sample.styles.css
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/scopedcss/projectbundle/dotnet sample.bundle.scp.css
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/dotnet sample.dll
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/refint/dotnet sample.dll
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/dotnet sample.pdb
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/dotnet sample.genruntimeconfig.cache
+/home/victor/Documents/dotnet sample/obj/Debug/net6.0/ref/dotnet sample.dll
+/home/victor/Documents/dotnet_sample/bin/Debug/net6.0/appsettings.Development.json
+/home/victor/Documents/dotnet_sample/bin/Debug/net6.0/appsettings.json
+/home/victor/Documents/dotnet_sample/bin/Debug/net6.0/dotnet sample.staticwebassets.runtime.json
+/home/victor/Documents/dotnet_sample/bin/Debug/net6.0/dotnet sample
+/home/victor/Documents/dotnet_sample/bin/Debug/net6.0/dotnet sample.deps.json
+/home/victor/Documents/dotnet_sample/bin/Debug/net6.0/dotnet sample.runtimeconfig.json
+/home/victor/Documents/dotnet_sample/bin/Debug/net6.0/dotnet sample.dll
+/home/victor/Documents/dotnet_sample/bin/Debug/net6.0/dotnet sample.pdb
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/dotnet sample.csproj.AssemblyReference.cache
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/dotnet sample.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/dotnet sample.AssemblyInfoInputs.cache
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/dotnet sample.AssemblyInfo.cs
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/dotnet sample.csproj.CoreCompileInputs.cache
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/dotnet sample.MvcApplicationPartsAssemblyInfo.cache
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/dotnet sample.RazorAssemblyInfo.cache
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/dotnet sample.RazorAssemblyInfo.cs
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/staticwebassets.build.json
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/staticwebassets.development.json
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/scopedcss/bundle/dotnet sample.styles.css
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/scopedcss/projectbundle/dotnet sample.bundle.scp.css
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/dotnet sample.dll
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/refint/dotnet sample.dll
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/dotnet sample.pdb
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/dotnet sample.genruntimeconfig.cache
+/home/victor/Documents/dotnet_sample/obj/Debug/net6.0/ref/dotnet sample.dll
