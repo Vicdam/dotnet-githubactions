@@ -59,8 +59,9 @@ jobs:
 
       - name: Build, Tag and Push Image
         run: |
-          docker build . --file Dockerfile -t $DOCKERHUB_USERNAME/dotnet:${{ steps.date.outputs.date }}
-          docker push $DOCKERHUB_USERNAME/dotnet:${{ steps.date.outputs.date }}
+          docker build . --file Dockerfile -t $DOCKERHUB_USERNAME/dotnet
+          docker push $DOCKERHUB_USERNAME/dotnet
+          #:${{ steps.date.outputs.date }}
 
 
   # deployment:
