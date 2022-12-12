@@ -11,8 +11,8 @@ env:
           GITHUB_TOKEN: ${{ secrets.VICDAM_TOKEN }}     
           host: ${{ secrets.SERVER_HOST }}          
           port: ${{ secrets.SERVER_PORT }}
-          dockerusername: ${{ secrets.DOCKERHUB_USERNAME }}          
-          dockerpassword: ${{ secrets.DOCKERHUB_TOKEN }}
+          username: ${{ secrets.DOCKERHUB_USERNAME }}          
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
 
 
 jobs:
@@ -50,8 +50,8 @@ jobs:
       - name: Log in to Docker Hub
         uses: docker/login-action@v2
         with:
-          dockerusername: ${{ secrets.DOCKERHUB_USERNAME }}          
-          dockerpassword: ${{ secrets.DOCKERHUB_TOKEN }}
+          username: ${{ secrets.DOCKERHUB_USERNAME }}          
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
             
       - name: Get Current Date 
         id: date
