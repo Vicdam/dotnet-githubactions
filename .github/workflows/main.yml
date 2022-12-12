@@ -55,7 +55,7 @@ jobs:
             
       - name: Get Current Date 
         id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d--%M')"
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
       - name: Build, Tag and Push Image
         run: |
