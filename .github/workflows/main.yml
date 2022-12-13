@@ -58,10 +58,11 @@ jobs:
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
-      - name: Tag and Push Image
-        run: |
-          docker build . --file Dockerfile --tag $DOCKERHUB_USERNAME/$REPOSITORY_NAME
-          docker push $DOCKERHUB_USERNAME/$REPOSITORY_NAME
+      - name: Build Image
+        run: docker build . --file Dockerfile --tag $DOCKERHUB_USERNAME/$REPOSITORY_NAME
+
+      - name: Push Image
+        run: docker push $DOCKERHUB_USERNAME/$REPOSITORY_NAME
 
 
   # deployment:
