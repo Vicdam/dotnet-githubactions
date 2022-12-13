@@ -13,6 +13,7 @@ env:
           port: ${{ secrets.SERVER_PORT }}
           username: ${{ secrets.DOCKERHUB_USERNAME }}          
           password: ${{ secrets.DOCKERHUB_TOKEN }}
+          REPOSITORY_NAME: ${{ secrets.REPOSITORY_NAME }}
 
 
 jobs:
@@ -59,8 +60,8 @@ jobs:
 
       - name: Build, Tag and Push Image
         run: |
-          docker build . --file Dockerfile -t $DOCKERHUB_USERNAME/dotnet
-          docker push $DOCKERHUB_USERNAME/dotnet
+          docker build . --file Dockerfile --tag $DOCKERHUB_USERNAME/$REPOSITORY_NAME:${{ steps.date.outputs.date }}
+          # docker push $DOCKERHUB_USERNAME/dotnet
           #:${{ steps.date.outputs.date }}
 
 

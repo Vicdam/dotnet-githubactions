@@ -4,5 +4,5 @@ COPY . .
 
 # Exposes a port where we can access our application
 EXPOSE 3000
-RUN dotnet restore
+# RUN dotnet restore
 RUN dotnet build --configuration Release --no-restore
