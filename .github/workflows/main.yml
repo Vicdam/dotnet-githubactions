@@ -61,8 +61,8 @@ jobs:
       - name: Build Image
         run: docker build . --file Dockerfile --tag $DOCKERHUB_USERNAME/$REPOSITORY_NAME
 
-      - name: Push Image
-        run: docker push $DOCKERHUB_USERNAME/$REPOSITORY_NAME
+      # - name: Push Image
+      #   run: docker push $DOCKERHUB_USERNAME/$REPOSITORY_NAME
 
 
   # deployment:
