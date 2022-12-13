@@ -59,7 +59,10 @@ jobs:
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
       - name: Build Image
-        run: docker build . --file Dockerfile --tag vicdam/dotnet:${{ steps.date.outputs.date }}
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}          
+          REPOSITORY_NAME: ${{ secrets.REPOSITORY_NAME }}
+        run: docker build . --file Dockerfile --tag $DOCKERHUB_USERNAME/$REPOSITORY_NAME:${{ steps.date.outputs.date }}
 
       # - name: Push Image
       #   run: docker push $DOCKERHUB_USERNAME/$REPOSITORY_NAME
